@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		3F5705262ECB093100DFDFBB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3F5705252ECB092200DFDFBB /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		3F5705062ECB087500DFDFBB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		3F5704F82ECB087400DFDFBB /* S25W12Navigation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = S25W12Navigation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F5705052ECB087500DFDFBB /* S25W12NavigationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = S25W12NavigationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F57050F2ECB087500DFDFBB /* S25W12NavigationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = S25W12NavigationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F5705252ECB092200DFDFBB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				3F5705082ECB087500DFDFBB /* S25W12NavigationTests */,
 				3F5705122ECB087500DFDFBB /* S25W12NavigationUITests */,
 				3F5704F92ECB087400DFDFBB /* Products */,
+				3F5705252ECB092200DFDFBB /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F5705262ECB093100DFDFBB /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
