@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+
 @main
 struct S25W12NavigationApp: App {
     var body: some Scene {
